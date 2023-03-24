@@ -136,7 +136,7 @@
       background-color: #eee;
     }
 
- #drapeaufr{
-  position: absolute;
-  right: 80 px;
- }
+  .drapeaufr{
+    position: relative;
+    margin-bottom: 800em;
+  }
